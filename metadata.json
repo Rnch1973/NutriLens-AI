@@ -1,0 +1,7 @@
+{
+  "name": "NutriLens AI",
+  "description": "An intelligent food recognition and nutrition analyzer that identifies dishes from photos, provides detailed macro-nutrients, allergen alerts, and complete step-by-step recipes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
